@@ -1,8 +1,8 @@
 # HDFC-Stock-Model
 
-# This is a Machine Learning model developed with "Decision Trees Algorithm" and "Random Forest Algorithm" to predict the turnover of HDFC bank with a given dataset of the previous turnovers and features.
+This is a Machine Learning model developed with "Decision Trees Algorithm" and "Random Forest Algorithm" to predict the turnover of HDFC bank with a given dataset of the previous turnovers and features.
 
-The dataset is real taken from QUANDL.
+# The dataset is real taken from QUANDL.
 
 # Quandl Code: NSE/HDFCBANK
 
